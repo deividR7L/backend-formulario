@@ -1,0 +1,25 @@
+{
+  "name": "backend-formulario",
+  "version": "1.0.0",
+  "description": "Este é um backend simples em Node.js com Express e Nodemailer, usado para processar formulários de contato e enviar e-mails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deividR7L/backend-formulario.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deividR7L/backend-formulario/issues"
+  },
+  "homepage": "https://github.com/deividR7L/backend-formulario#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemailer": "^7.0.3"
+  }
+}
