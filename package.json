@@ -2,9 +2,9 @@
   "name": "backend-formulario",
   "version": "1.0.0",
   "description": "API para envio de mensagens via formulário de contato",
-  "main": "server.js",
+  "main": "node server.js",
   "scripts": {
-    "start": "server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
