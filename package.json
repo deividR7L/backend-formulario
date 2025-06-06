@@ -2,7 +2,7 @@
   "name": "backend-formulario",
   "version": "1.0.0",
   "description": "API para envio de mensagens via formulário de contato",
-  "main": "node server.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
